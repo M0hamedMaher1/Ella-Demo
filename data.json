@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "(Product 21) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-app-4_23546feb-c1d6-4645-819e-10afcda659f6_870x.jpg?v=1640334234",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-app-3_275905fd-215f-4522-9570-bae7c4f3ac3c_870x.jpg?v=1640334234",
+            "price": "$49.00",
+            "disc": "$59.00"
+        },
+        {
+            "id": "2",
+            "title": "(Product 6) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-1_870x.jpg?v=1640334147",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-1-2_870x.jpg?v=1640334147",
+            "price": "$49.00",
+            "disc": "$89.00"
+        },
+        {
+            "id": "3",
+            "title": "(Product 16) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-tivi-2_88cda809-75af-49eb-8a94-8fa4e37702fd_870x.jpg?v=1640334208",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-tivi-1_ad5097e1-ea23-4ccf-b4a5-dc2c9b4f35f1_870x.jpg?v=1640334208",
+            "price": "$49.00",
+            "disc": "$99.00"
+        },
+        {
+            "id": "4",
+            "title": "(Product 10) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-11-5_ecbb6350-5f7d-4b8f-b286-f44193317da1_870x.jpg?v=1640334176",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-11-2_a1b33940-f66d-40b7-ae4b-d2ff12806c0a_870x.jpg?v=1640334176",
+            "price": "$49.00",
+            "disc": "$89.00"
+        }
+    ],
+    "product": [
+        {
+            "id": "5",
+            "title": "(Product 25) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-3_ac1fbe5d-2af7-4cc3-9e7f-98dc1d235043_870x.jpg?v=1640334260",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-2_76051fb3-f011-47b7-9d39-781aab62b9fd_870x.jpg?v=1640334260",
+            "price": "$49.00"
+        },
+        {
+            "id": "6",
+            "title": "(Product 25) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-4_870x.jpg?v=1640334241",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-1_870x.jpg?v=1640334241",
+            "price": "$49.00"
+        },
+        {
+            "id": "7",
+            "title": "(Product 25) sample - computers & accessories for sale - black",
+            "image1": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-1_74deffc9-6624-44a4-ad34-80df11eeb11b_870x.jpg?v=1640334250",
+            "image2": "https://new-ella-demo.myshopify.com/cdn/shop/products/product-laptop-2_d9df0355-46af-41d5-b38d-702817fc5d82_870x.jpg?v=1640334250",
+            "price": "$90.00"
+        }
+    ]
+}
