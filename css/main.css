@@ -1037,6 +1037,9 @@ body{
 }
 
 @media screen and (max-width:1050px){
+    .container{
+        width: 93%;
+    }
     .mid{
         background-color: #fff;
     }
