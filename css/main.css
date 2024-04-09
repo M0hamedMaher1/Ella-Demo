@@ -1124,7 +1124,7 @@ body{
 
 @media screen and (max-width:860px){
     .hero-container{
-        width: 90%;
+        width: 92%;
     }
     .cardat{
         width: calc(100% / 2);
