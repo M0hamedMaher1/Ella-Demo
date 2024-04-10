@@ -1132,6 +1132,26 @@ body{
     .none2{
         display: none;
     }
+    .left-image{
+        width:50%;
+        margin: 0 auto;
+    }
+    .right-info p{
+        margin: 1px 0;
+    }
+    .price2{
+        margin: 5px 0;
+    }
+    .right-info h3 ~ span{
+        margin: 5px 0;
+    }
+    .close{
+        transform: translate(0, 0);
+    }
+    .four-colors div{
+        width: 20px;
+        height: 20px;
+    }
 }
 
 @media screen and (max-width:840px){
