@@ -357,7 +357,7 @@ body{
     position: fixed;
     bottom: 40px;
     right: 20px;
-    z-index: 223323;
+    z-index: 223;
     transform: translateY(calc(100% + 40px));
     transition: all 0.4s ease-in-out;
 }
