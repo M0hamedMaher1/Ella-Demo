@@ -895,11 +895,12 @@ body{
 
 .right-info .choose i{
     opacity: 1;
-    width: 10%;
+    width: 40px;
+    height: 40px;
 }
 
 .right-info .choose button{
-    width: 90%;
+    width: 80%;
 }
 
 .mid-img{
