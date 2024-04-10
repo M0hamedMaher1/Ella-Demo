@@ -709,12 +709,13 @@ body{
 }
 
 .choose button{
-    width: 85%;
+    width: 80%;
     padding: 10px 0;
     border-radius: 25px;
     border: 1px solid rgba(0,0,0,0.1);
     color: black;
     background-color: #fff;
+    text-transform: capitalize;
     font-size: 15px;
     font-weight: 400;
     cursor: pointer;
@@ -1162,6 +1163,9 @@ body{
     }
     .up h4{
         font-size: 7px;
+    }
+    .choose button{
+        font-size: 10px;
     }
 }
 
