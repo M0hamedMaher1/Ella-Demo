@@ -612,6 +612,7 @@ body{
     color: black;
     background-color: #fff;
     font-size: 15px;
+    text-transform: capitalize;
     cursor: pointer;
     position: absolute;
     top: 50%;
@@ -727,8 +728,8 @@ body{
 }
 
 .choose i{
-    width: 25px;
-    height: 25px;
+    width: 40px;
+    height: 40px;
     font-size: 15px;
     color: black;
     background-color: #f1f1f1;
